@@ -106,4 +106,4 @@ Then open `task3-dashboard/dashboard.html` and load `task1-data-cleaning/nyc311_
 Data cleaning, data validation, exploratory analysis, anomaly detection, statistical thinking (skew, outliers, median vs mean), data visualisation, dashboard design (KPIs, filters, cross-filtering), business storytelling, documentation and reproducibility.
 
 ## Author
-[Your name] | [LinkedIn URL] | Completed for @swynextechnologics
+Sarthak Chandavale | www.linkedin.com/in/sarthak-chandavale-1aaa9832a] | Completed for @swynextechnologics
